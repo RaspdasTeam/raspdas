@@ -1,5 +1,4 @@
 # raspdas
 Raspberry Pi Data Acquisition System
 
-     ... will be soon ...
-... under heavy development ...
+Repo for general documentation.
